@@ -311,7 +311,7 @@ if __name__ == "__main__":
     navigator.click_uts_login_button()
     navigator.fill_user_id("nipunn.khurana@student.uts.edu.au")  # Replace with your USER ID
     navigator.click_next_button()
-    navigator.fill_password("Guitar@918")  # Replace with your password
+    navigator.fill_password("**********")  # Replace with your password
     navigator.click_sign_in_button()
     navigator.click_receive_code_button()
     navigator.fill_otp()  # Prompted input for OTP
